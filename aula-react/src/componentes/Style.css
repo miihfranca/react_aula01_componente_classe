@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(243, 200, 229);
+}
+.cor {
+    width: 35vw;
+    height: 250px;
+    margin-top: 50px;
+    border-style: dotted;
+    border-color: rgb(26, 13, 12);
+    border-width: 5px;
+    background-color: burlywood;
+}
